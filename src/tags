@@ -1,0 +1,448 @@
+$(ACLOCAL_M4	Makefile	/^$(ACLOCAL_M4):  $(am__aclocal_m4_deps)$/
+$(ACLOCAL_M4	Makefile.in	/^$(ACLOCAL_M4):  $(am__aclocal_m4_deps)$/
+$(am__aclocal_m4_deps	Makefile	/^$(am__aclocal_m4_deps):$/
+$(am__aclocal_m4_deps	Makefile.in	/^$(am__aclocal_m4_deps):$/
+$(srcdir)/Makefile.in	Makefile	/^$(srcdir)\/Makefile.in:  $(srcdir)\/Makefile.am  $(a/
+$(srcdir)/Makefile.in	Makefile.in	/^$(srcdir)\/Makefile.in:  $(srcdir)\/Makefile.am  $(a/
+$(top_builddir)/config.status	Makefile	/^$(top_builddir)\/config.status: $(top_srcdir)\/confi/
+$(top_builddir)/config.status	Makefile.in	/^$(top_builddir)\/config.status: $(top_srcdir)\/confi/
+$(top_srcdir)/configure	Makefile	/^$(top_srcdir)\/configure:  $(am__configure_deps)$/
+$(top_srcdir)/configure	Makefile.in	/^$(top_srcdir)\/configure:  $(am__configure_deps)$/
+.MAKE	Makefile	/^.MAKE: install-am install-strip$/
+.MAKE	Makefile.in	/^.MAKE: install-am install-strip$/
+.NOEXPORT	Makefile	/^.NOEXPORT:$/
+.NOEXPORT	Makefile.in	/^.NOEXPORT:$/
+.PHONY	Makefile	/^.PHONY: CTAGS GTAGS all all-am check check-am clea/
+.PHONY	Makefile.in	/^.PHONY: CTAGS GTAGS all all-am check check-am clea/
+.PRECIOUS	Makefile	/^.PRECIOUS: Makefile$/
+.PRECIOUS	Makefile.in	/^.PRECIOUS: Makefile$/
+.SUFFIXES	Makefile	/^.SUFFIXES:$/
+.SUFFIXES	Makefile	/^.SUFFIXES: .c .o .obj$/
+.SUFFIXES	Makefile.in	/^.SUFFIXES:$/
+.SUFFIXES	Makefile.in	/^.SUFFIXES: .c .o .obj$/
+.c.o	Makefile	/^.c.o:$/
+.c.o	Makefile.in	/^.c.o:$/
+.c.obj	Makefile	/^.c.obj:$/
+.c.obj	Makefile.in	/^.c.obj:$/
+@AMDEP_TRUE@@am__fastdepCC_FALSE@	DEPDIR	Makefile.in	/^@AMDEP_TRUE@@am__fastdepCC_FALSE@	DEPDIR=$(DEPDIR)/
+@AMDEP_TRUE@@am__fastdepCC_FALSE@	DEPDIR	Makefile.in	/^@AMDEP_TRUE@@am__fastdepCC_FALSE@	DEPDIR=$(DEPDIR)/
+@AMDEP_TRUE@@am__fastdepCC_FALSE@	source	Makefile.in	/^@AMDEP_TRUE@@am__fastdepCC_FALSE@	source='$<' obje/
+@AMDEP_TRUE@@am__fastdepCC_FALSE@	source	Makefile.in	/^@AMDEP_TRUE@@am__fastdepCC_FALSE@	source='$<' obje/
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/wuhaiwen\/study\/spawn-fcgi/
+ACLOCAL	Makefile.in	/^ACLOCAL = @ACLOCAL@$/
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/
+ACLOCAL_M4	Makefile.in	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/home\/wuhaiwen\/study\/spawn-fcgi-1/
+AMTAR	Makefile.in	/^AMTAR = @AMTAR@$/
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/wuhaiwen\/study\/spawn-fcg/
+AUTOCONF	Makefile.in	/^AUTOCONF = @AUTOCONF@$/
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/wuhaiwen\/study\/spawn-f/
+AUTOHEADER	Makefile.in	/^AUTOHEADER = @AUTOHEADER@$/
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/wuhaiwen\/study\/spawn-fcg/
+AUTOMAKE	Makefile.in	/^AUTOMAKE = @AUTOMAKE@$/
+AWK	Makefile	/^AWK = gawk$/
+AWK	Makefile.in	/^AWK = @AWK@$/
+CC	Makefile	/^CC = gcc$/
+CC	Makefile.in	/^CC = @CC@$/
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/
+CCDEPMODE	Makefile.in	/^CCDEPMODE = @CCDEPMODE@$/
+CCLD	Makefile	/^CCLD = $(CC)$/
+CCLD	Makefile.in	/^CCLD = $(CC)$/
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -Wall -W -Wshadow -pedantic -std=g/
+CFLAGS	Makefile.in	/^CFLAGS = @CFLAGS@$/
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCL/
+COMPILE	Makefile.in	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCL/
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/
+CONFIG_CLEAN_FILES	Makefile.in	/^CONFIG_CLEAN_FILES =$/
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/
+CONFIG_CLEAN_VPATH_FILES	Makefile.in	/^CONFIG_CLEAN_VPATH_FILES =$/
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/
+CONFIG_HEADER	Makefile.in	/^CONFIG_HEADER = $(top_builddir)\/config.h$/
+CONST_STR_LEN	spawn-fcgi.c	/^#define CONST_STR_LEN(s) s, sizeof(s) - 1$/
+CPP	Makefile	/^CPP = gcc -E$/
+CPP	Makefile.in	/^CPP = @CPP@$/
+CPPFLAGS	Makefile	/^CPPFLAGS = $/
+CPPFLAGS	Makefile.in	/^CPPFLAGS = @CPPFLAGS@$/
+CTAGS	Makefile	/^CTAGS = ctags$/
+CTAGS	Makefile	/^CTAGS:  $(HEADERS) $(SOURCES)  $(TAGS_DEPENDENCIES/
+CTAGS	Makefile.in	/^CTAGS = ctags$/
+CTAGS	Makefile.in	/^CTAGS:  $(HEADERS) $(SOURCES)  $(TAGS_DEPENDENCIES/
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/
+CYGPATH_W	Makefile.in	/^CYGPATH_W = @CYGPATH_W@$/
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/
+DEFAULT_INCLUDES	Makefile.in	/^DEFAULT_INCLUDES = -I.@am__isrc@ -I$(top_builddir)/
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/
+DEFS	Makefile.in	/^DEFS = @DEFS@$/
+DEPDIR	Makefile	/^DEPDIR = .deps$/
+DEPDIR	Makefile.in	/^DEPDIR = @DEPDIR@$/
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXIN/
+DISTFILES	Makefile.in	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXIN/
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Make/
+DIST_COMMON	Makefile.in	/^DIST_COMMON = $(srcdir)\/Makefile.am $(srcdir)\/Make/
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(spawn_fcgi_SOURCES)$/
+DIST_SOURCES	Makefile.in	/^DIST_SOURCES = $(spawn_fcgi_SOURCES)$/
+EALREADY	spawn-fcgi.c	34
+ECHO_C	Makefile	/^ECHO_C = $/
+ECHO_C	Makefile.in	/^ECHO_C = @ECHO_C@$/
+ECHO_N	Makefile	/^ECHO_N = -n$/
+ECHO_N	Makefile.in	/^ECHO_N = @ECHO_N@$/
+ECHO_T	Makefile	/^ECHO_T = $/
+ECHO_T	Makefile.in	/^ECHO_T = @ECHO_T@$/
+ECONNABORTED	spawn-fcgi.c	35
+ECONNRESET	spawn-fcgi.c	32
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/
+EGREP	Makefile.in	/^EGREP = @EGREP@$/
+EINPROGRESS	spawn-fcgi.c	33
+ETAGS	Makefile	/^ETAGS = etags$/
+ETAGS	Makefile.in	/^ETAGS = etags$/
+EXEEXT	Makefile	/^EXEEXT = $/
+EXEEXT	Makefile.in	/^EXEEXT = @EXEEXT@$/
+EXTRA_DIST	Makefile	/^EXTRA_DIST = CMakeLists.txt config.h.cmake$/
+EXTRA_DIST	Makefile.am	/^EXTRA_DIST=CMakeLists.txt config.h.cmake$/
+EXTRA_DIST	Makefile.in	/^EXTRA_DIST = CMakeLists.txt config.h.cmake$/
+FCGI_LISTENSOCK_FILENO	spawn-fcgi.c	25
+GREP	Makefile	/^GREP = \/bin\/grep$/
+GREP	Makefile.in	/^GREP = @GREP@$/
+GTAGS	Makefile	/^GTAGS:$/
+GTAGS	Makefile.in	/^GTAGS:$/
+ID	Makefile	/^ID: $(HEADERS) $(SOURCES) $(LISP) $(TAGS_FILES)$/
+ID	Makefile.in	/^ID: $(HEADERS) $(SOURCES) $(LISP) $(TAGS_FILES)$/
+INCLUDE	CMakeLists.txt	/^INCLUDE(CheckCSourceCompiles)$/
+INCLUDE_DIRECTORIES	CMakeLists.txt	/^INCLUDE_DIRECTORIES(${CMAKE_CURRENT_BINARY_DIR} ${/
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/
+INSTALL	Makefile.in	/^INSTALL = @INSTALL@$/
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/
+INSTALL_DATA	Makefile.in	/^INSTALL_DATA = @INSTALL_DATA@$/
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/
+INSTALL_HEADER	Makefile.in	/^INSTALL_HEADER = $(INSTALL_DATA)$/
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/
+INSTALL_PROGRAM	Makefile.in	/^INSTALL_PROGRAM = @INSTALL_PROGRAM@$/
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/
+INSTALL_SCRIPT	Makefile.in	/^INSTALL_SCRIPT = @INSTALL_SCRIPT@$/
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/
+INSTALL_STRIP_PROGRAM	Makefile.in	/^INSTALL_STRIP_PROGRAM = @INSTALL_STRIP_PROGRAM@$/
+LDFLAGS	Makefile	/^LDFLAGS = $/
+LDFLAGS	Makefile.in	/^LDFLAGS = @LDFLAGS@$/
+LIBOBJS	Makefile	/^LIBOBJS = $/
+LIBOBJS	Makefile.in	/^LIBOBJS = @LIBOBJS@$/
+LIBS	Makefile	/^LIBS = $/
+LIBS	Makefile.in	/^LIBS = @LIBS@$/
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS/
+LINK	Makefile.in	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS/
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/
+LTLIBOBJS	Makefile.in	/^LTLIBOBJS = @LTLIBOBJS@$/
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/wuhaiwen\/study\/spawn-fcg/
+MAKEINFO	Makefile.in	/^MAKEINFO = @MAKEINFO@$/
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/
+MKDIR_P	Makefile.in	/^MKDIR_P = @MKDIR_P@$/
+Makefile	Makefile	/^Makefile: $(srcdir)\/Makefile.in $(top_builddir)\/co/
+Makefile	Makefile.in	/^Makefile: $(srcdir)\/Makefile.in $(top_builddir)\/co/
+Mspawn-fcgi	spawn-fcgi.c	/^int main(int argc, char **argv) {$/
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/
+NORMAL_INSTALL	Makefile.in	/^NORMAL_INSTALL = :$/
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/
+NORMAL_UNINSTALL	Makefile.in	/^NORMAL_UNINSTALL = :$/
+OBJEXT	Makefile	/^OBJEXT = o$/
+OBJEXT	Makefile.in	/^OBJEXT = @OBJEXT@$/
+PACKAGE	Makefile	/^PACKAGE = spawn-fcgi$/
+PACKAGE	Makefile.in	/^PACKAGE = @PACKAGE@$/
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/
+PACKAGE_BUGREPORT	Makefile.in	/^PACKAGE_BUGREPORT = @PACKAGE_BUGREPORT@$/
+PACKAGE_DESC	spawn-fcgi.c	78
+PACKAGE_FEATURES	spawn-fcgi.c	73
+PACKAGE_FEATURES	spawn-fcgi.c	75
+PACKAGE_NAME	config.h.cmake	6
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = spawn-fcgi$/
+PACKAGE_NAME	Makefile.in	/^PACKAGE_NAME = @PACKAGE_NAME@$/
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = spawn-fcgi 1.6.3$/
+PACKAGE_STRING	Makefile.in	/^PACKAGE_STRING = @PACKAGE_STRING@$/
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = spawn-fcgi$/
+PACKAGE_TARNAME	Makefile.in	/^PACKAGE_TARNAME = @PACKAGE_TARNAME@$/
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/
+PACKAGE_URL	Makefile.in	/^PACKAGE_URL = @PACKAGE_URL@$/
+PACKAGE_VERSION	config.h.cmake	7
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = 1.6.3$/
+PACKAGE_VERSION	Makefile.in	/^PACKAGE_VERSION = @PACKAGE_VERSION@$/
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/
+PATH_SEPARATOR	Makefile.in	/^PATH_SEPARATOR = @PATH_SEPARATOR@$/
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/
+POST_INSTALL	Makefile.in	/^POST_INSTALL = :$/
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/
+POST_UNINSTALL	Makefile.in	/^POST_UNINSTALL = :$/
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/
+PRE_INSTALL	Makefile.in	/^PRE_INSTALL = :$/
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/
+PRE_UNINSTALL	Makefile.in	/^PRE_UNINSTALL = :$/
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/
+PROGRAMS	Makefile.in	/^PROGRAMS = $(bin_PROGRAMS)$/
+SET_MAKE	Makefile	/^SET_MAKE = $/
+SET_MAKE	Makefile.in	/^SET_MAKE = @SET_MAKE@$/
+SHELL	Makefile	/^SHELL = \/bin\/sh$/
+SHELL	Makefile.in	/^SHELL = @SHELL@$/
+SOURCES	Makefile	/^SOURCES = $(spawn_fcgi_SOURCES)$/
+SOURCES	Makefile.in	/^SOURCES = $(spawn_fcgi_SOURCES)$/
+STRIP	Makefile	/^STRIP = $/
+STRIP	Makefile.in	/^STRIP = @STRIP@$/
+TAGS	Makefile	/^TAGS:  $(HEADERS) $(SOURCES)  $(TAGS_DEPENDENCIES)/
+TAGS	Makefile.in	/^TAGS:  $(HEADERS) $(SOURCES)  $(TAGS_DEPENDENCIES)/
+USE_IPV6	spawn-fcgi.c	69
+VERSION	Makefile	/^VERSION = 1.6.3$/
+VERSION	Makefile.in	/^VERSION = @VERSION@$/
+VPATH	Makefile.in	/^VPATH = @srcdir@$/
+abs_builddir	Makefile	/^abs_builddir = \/home\/wuhaiwen\/study\/spawn-fcgi-1.6/
+abs_builddir	Makefile.in	/^abs_builddir = @abs_builddir@$/
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/wuhaiwen\/study\/spawn-fcgi-1.6.3/
+abs_srcdir	Makefile.in	/^abs_srcdir = @abs_srcdir@$/
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/wuhaiwen\/study\/spawn-fcgi/
+abs_top_builddir	Makefile.in	/^abs_top_builddir = @abs_top_builddir@$/
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/wuhaiwen\/study\/spawn-fcgi-1/
+abs_top_srcdir	Makefile.in	/^abs_top_srcdir = @abs_top_srcdir@$/
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/
+ac_ct_CC	Makefile.in	/^ac_ct_CC = @ac_ct_CC@$/
+all	Makefile	/^all: all-am$/
+all	Makefile.in	/^all: all-am$/
+all-am	Makefile	/^all-am: Makefile $(PROGRAMS)$/
+all-am	Makefile.in	/^all-am: Makefile $(PROGRAMS)$/
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/
+am__aclocal_m4_deps	Makefile.in	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR/
+am__cd	Makefile.in	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR/
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONF/
+am__configure_deps	Makefile.in	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONF/
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/
+am__depfiles_maybe	Makefile.in	/^am__depfiles_maybe = depfiles$/
+am__include	Makefile	/^am__include = include$/
+am__include	Makefile.in	/^am__include = @am__include@$/
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/
+am__installdirs	Makefile.in	/^am__installdirs = "$(DESTDIR)$(bindir)"$/
+am__leading_dot	Makefile	/^am__leading_dot = .$/
+am__leading_dot	Makefile.in	/^am__leading_dot = @am__leading_dot@$/
+am__mv	Makefile	/^am__mv = mv -f$/
+am__mv	Makefile.in	/^am__mv = mv -f$/
+am__quote	Makefile	/^am__quote = $/
+am__quote	Makefile.in	/^am__quote = @am__quote@$/
+am__tar	Makefile	/^am__tar = ${AMTAR} chof - "$$tardir"$/
+am__tar	Makefile.in	/^am__tar = @am__tar@$/
+am__untar	Makefile	/^am__untar = ${AMTAR} xf -$/
+am__untar	Makefile.in	/^am__untar = @am__untar@$/
+am_spawn_fcgi_OBJECTS	Makefile	/^am_spawn_fcgi_OBJECTS = spawn-fcgi.$(OBJEXT)$/
+am_spawn_fcgi_OBJECTS	Makefile.in	/^am_spawn_fcgi_OBJECTS = spawn-fcgi.$(OBJEXT)$/
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = spawn-fcgi$(EXEEXT)$/
+bin_PROGRAMS	Makefile.am	/^bin_PROGRAMS=spawn-fcgi$/
+bin_PROGRAMS	Makefile.in	/^bin_PROGRAMS = spawn-fcgi$(EXEEXT)$/
+bind_socket	spawn-fcgi.c	/^static int bind_socket(const char *addr, unsigned /
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/
+bindir	Makefile.in	/^bindir = @bindir@$/
+build_alias	Makefile	/^build_alias = $/
+build_alias	Makefile.in	/^build_alias = @build_alias@$/
+builddir	Makefile	/^builddir = .$/
+builddir	Makefile.in	/^builddir = @builddir@$/
+check	Makefile	/^check: check-am$/
+check	Makefile.in	/^check: check-am$/
+check-am	Makefile	/^check-am: all-am$/
+check-am	Makefile.in	/^check-am: all-am$/
+clean	Makefile	/^clean: clean-am$/
+clean	Makefile.in	/^clean: clean-am$/
+clean-am	Makefile	/^clean-am: clean-binPROGRAMS clean-generic mostlycl/
+clean-am	Makefile.in	/^clean-am: clean-binPROGRAMS clean-generic mostlycl/
+clean-binPROGRAMS	Makefile	/^clean-binPROGRAMS:$/
+clean-binPROGRAMS	Makefile.in	/^clean-binPROGRAMS:$/
+clean-generic	Makefile	/^clean-generic:$/
+clean-generic	Makefile.in	/^clean-generic:$/
+ctags	Makefile	/^ctags: CTAGS$/
+ctags	Makefile.in	/^ctags: CTAGS$/
+datadir	Makefile	/^datadir = ${datarootdir}$/
+datadir	Makefile.in	/^datadir = @datadir@$/
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/
+datarootdir	Makefile.in	/^datarootdir = @datarootdir@$/
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/
+depcomp	Makefile.in	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/
+distclean	Makefile	/^distclean: distclean-am$/
+distclean	Makefile.in	/^distclean: distclean-am$/
+distclean-am	Makefile	/^distclean-am: clean-am distclean-compile distclean/
+distclean-am	Makefile.in	/^distclean-am: clean-am distclean-compile distclean/
+distclean-compile	Makefile	/^distclean-compile:$/
+distclean-compile	Makefile.in	/^distclean-compile:$/
+distclean-generic	Makefile	/^distclean-generic:$/
+distclean-generic	Makefile.in	/^distclean-generic:$/
+distclean-tags	Makefile	/^distclean-tags:$/
+distclean-tags	Makefile.in	/^distclean-tags:$/
+distdir	Makefile	/^distdir: $(DISTFILES)$/
+distdir	Makefile.in	/^distdir: $(DISTFILES)$/
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/
+docdir	Makefile.in	/^docdir = @docdir@$/
+dvi	Makefile	/^dvi: dvi-am$/
+dvi	Makefile.in	/^dvi: dvi-am$/
+dvi-am	Makefile	/^dvi-am:$/
+dvi-am	Makefile.in	/^dvi-am:$/
+dvidir	Makefile	/^dvidir = ${docdir}$/
+dvidir	Makefile.in	/^dvidir = @dvidir@$/
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/
+exec_prefix	Makefile.in	/^exec_prefix = @exec_prefix@$/
+fcgi_spawn_connection	spawn-fcgi.c	/^static int fcgi_spawn_connection(char *appPath, ch/
+find_user_group	spawn-fcgi.c	/^static int find_user_group(const char *user, const/
+host_alias	Makefile	/^host_alias = $/
+host_alias	Makefile.in	/^host_alias = @host_alias@$/
+hstrerror	spawn-fcgi.c	/^# define hstrerror(x) ""$/
+html	Makefile	/^html: html-am$/
+html	Makefile.in	/^html: html-am$/
+html-am	Makefile	/^html-am:$/
+html-am	Makefile.in	/^html-am:$/
+htmldir	Makefile	/^htmldir = ${docdir}$/
+htmldir	Makefile.in	/^htmldir = @htmldir@$/
+includedir	Makefile	/^includedir = ${prefix}\/include$/
+includedir	Makefile.in	/^includedir = @includedir@$/
+info	Makefile	/^info: info-am$/
+info	Makefile.in	/^info: info-am$/
+info-am	Makefile	/^info-am:$/
+info-am	Makefile.in	/^info-am:$/
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/
+infodir	Makefile.in	/^infodir = @infodir@$/
+install	Makefile	/^install: install-am$/
+install	Makefile.in	/^install: install-am$/
+install-am	Makefile	/^install-am: all-am$/
+install-am	Makefile.in	/^install-am: all-am$/
+install-binPROGRAMS	Makefile	/^install-binPROGRAMS: $(bin_PROGRAMS)$/
+install-binPROGRAMS	Makefile.in	/^install-binPROGRAMS: $(bin_PROGRAMS)$/
+install-data	Makefile	/^install-data: install-data-am$/
+install-data	Makefile.in	/^install-data: install-data-am$/
+install-data-am	Makefile	/^install-data-am:$/
+install-data-am	Makefile.in	/^install-data-am:$/
+install-dvi	Makefile	/^install-dvi: install-dvi-am$/
+install-dvi	Makefile.in	/^install-dvi: install-dvi-am$/
+install-dvi-am	Makefile	/^install-dvi-am:$/
+install-dvi-am	Makefile.in	/^install-dvi-am:$/
+install-exec	Makefile	/^install-exec: install-exec-am$/
+install-exec	Makefile.in	/^install-exec: install-exec-am$/
+install-exec-am	Makefile	/^install-exec-am: install-binPROGRAMS$/
+install-exec-am	Makefile.in	/^install-exec-am: install-binPROGRAMS$/
+install-html	Makefile	/^install-html: install-html-am$/
+install-html	Makefile.in	/^install-html: install-html-am$/
+install-html-am	Makefile	/^install-html-am:$/
+install-html-am	Makefile.in	/^install-html-am:$/
+install-info	Makefile	/^install-info: install-info-am$/
+install-info	Makefile.in	/^install-info: install-info-am$/
+install-info-am	Makefile	/^install-info-am:$/
+install-info-am	Makefile.in	/^install-info-am:$/
+install-man	Makefile	/^install-man:$/
+install-man	Makefile.in	/^install-man:$/
+install-pdf	Makefile	/^install-pdf: install-pdf-am$/
+install-pdf	Makefile.in	/^install-pdf: install-pdf-am$/
+install-pdf-am	Makefile	/^install-pdf-am:$/
+install-pdf-am	Makefile.in	/^install-pdf-am:$/
+install-ps	Makefile	/^install-ps: install-ps-am$/
+install-ps	Makefile.in	/^install-ps: install-ps-am$/
+install-ps-am	Makefile	/^install-ps-am:$/
+install-ps-am	Makefile.in	/^install-ps-am:$/
+install-strip	Makefile	/^install-strip:$/
+install-strip	Makefile.in	/^install-strip:$/
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/wuhaiwen\/study\/spawn-f/
+install_sh	Makefile.in	/^install_sh = @install_sh@$/
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/
+install_sh_DATA	Makefile.in	/^install_sh_DATA = $(install_sh) -c -m 644$/
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/
+install_sh_PROGRAM	Makefile.in	/^install_sh_PROGRAM = $(install_sh) -c$/
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/
+install_sh_SCRIPT	Makefile.in	/^install_sh_SCRIPT = $(install_sh) -c$/
+installcheck	Makefile	/^installcheck: installcheck-am$/
+installcheck	Makefile.in	/^installcheck: installcheck-am$/
+installcheck-am	Makefile	/^installcheck-am:$/
+installcheck-am	Makefile.in	/^installcheck-am:$/
+installdirs	Makefile	/^installdirs:$/
+installdirs	Makefile.in	/^installdirs:$/
+ioctl	spawn-fcgi.c	36
+issetugid	spawn-fcgi.c	/^static int issetugid() {$/
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/
+libdir	Makefile.in	/^libdir = @libdir@$/
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/
+libexecdir	Makefile.in	/^libexecdir = @libexecdir@$/
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/
+localedir	Makefile.in	/^localedir = @localedir@$/
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/
+localstatedir	Makefile.in	/^localstatedir = @localstatedir@$/
+maintainer-clean	Makefile	/^maintainer-clean: maintainer-clean-am$/
+maintainer-clean	Makefile.in	/^maintainer-clean: maintainer-clean-am$/
+maintainer-clean-am	Makefile	/^maintainer-clean-am: distclean-am maintainer-clean/
+maintainer-clean-am	Makefile.in	/^maintainer-clean-am: distclean-am maintainer-clean/
+maintainer-clean-generic	Makefile	/^maintainer-clean-generic:$/
+maintainer-clean-generic	Makefile.in	/^maintainer-clean-generic:$/
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/
+mandir	Makefile.in	/^mandir = @mandir@$/
+mkdir_p	Makefile	/^mkdir_p = \/bin\/mkdir -p$/
+mkdir_p	Makefile.in	/^mkdir_p = @mkdir_p@$/
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/
+mkinstalldirs	Makefile.in	/^mkinstalldirs = $(install_sh) -d$/
+mostlyclean	Makefile	/^mostlyclean: mostlyclean-am$/
+mostlyclean	Makefile.in	/^mostlyclean: mostlyclean-am$/
+mostlyclean-am	Makefile	/^mostlyclean-am: mostlyclean-compile mostlyclean-ge/
+mostlyclean-am	Makefile.in	/^mostlyclean-am: mostlyclean-compile mostlyclean-ge/
+mostlyclean-compile	Makefile	/^mostlyclean-compile:$/
+mostlyclean-compile	Makefile.in	/^mostlyclean-compile:$/
+mostlyclean-generic	Makefile	/^mostlyclean-generic:$/
+mostlyclean-generic	Makefile.in	/^mostlyclean-generic:$/
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/
+oldincludedir	Makefile.in	/^oldincludedir = @oldincludedir@$/
+pdf	Makefile	/^pdf: pdf-am$/
+pdf	Makefile.in	/^pdf: pdf-am$/
+pdf-am	Makefile	/^pdf-am:$/
+pdf-am	Makefile.in	/^pdf-am:$/
+pdfdir	Makefile	/^pdfdir = ${docdir}$/
+pdfdir	Makefile.in	/^pdfdir = @pdfdir@$/
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/spawn-fcgi$/
+pkgdatadir	Makefile.in	/^pkgdatadir = $(datadir)\/@PACKAGE@$/
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/spawn-fcgi$/
+pkgincludedir	Makefile.in	/^pkgincludedir = $(includedir)\/@PACKAGE@$/
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/spawn-fcgi$/
+pkglibdir	Makefile.in	/^pkglibdir = $(libdir)\/@PACKAGE@$/
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/spawn-fcgi$/
+pkglibexecdir	Makefile.in	/^pkglibexecdir = $(libexecdir)\/@PACKAGE@$/
+prefix	Makefile	/^prefix = \/home\/wuhaiwen$/
+prefix	Makefile.in	/^prefix = @prefix@$/
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/
+program_transform_name	Makefile.in	/^program_transform_name = @program_transform_name@$/
+ps	Makefile	/^ps: ps-am$/
+ps	Makefile.in	/^ps: ps-am$/
+ps-am	Makefile	/^ps-am:$/
+ps-am	Makefile.in	/^ps-am:$/
+psdir	Makefile	/^psdir = ${docdir}$/
+psdir	Makefile.in	/^psdir = @psdir@$/
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/
+sbindir	Makefile.in	/^sbindir = @sbindir@$/
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/
+sharedstatedir	Makefile.in	/^sharedstatedir = @sharedstatedir@$/
+show_help	spawn-fcgi.c	/^static void show_help () {$/
+show_version	spawn-fcgi.c	/^static void show_version () {$/
+socklen_t	spawn-fcgi.c	59
+spawn-fcgi$(EXEEXT	Makefile	/^spawn-fcgi$(EXEEXT): $(spawn_fcgi_OBJECTS) $(spawn/
+spawn-fcgi$(EXEEXT	Makefile.in	/^spawn-fcgi$(EXEEXT): $(spawn_fcgi_OBJECTS) $(spawn/
+spawn_fcgi_LDADD	Makefile	/^spawn_fcgi_LDADD = $(LDADD)$/
+spawn_fcgi_LDADD	Makefile.in	/^spawn_fcgi_LDADD = $(LDADD)$/
+spawn_fcgi_OBJECTS	Makefile	/^spawn_fcgi_OBJECTS = $(am_spawn_fcgi_OBJECTS)$/
+spawn_fcgi_OBJECTS	Makefile.in	/^spawn_fcgi_OBJECTS = $(am_spawn_fcgi_OBJECTS)$/
+spawn_fcgi_SOURCES	Makefile	/^spawn_fcgi_SOURCES = spawn-fcgi.c$/
+spawn_fcgi_SOURCES	Makefile.am	/^spawn_fcgi_SOURCES=spawn-fcgi.c$/
+spawn_fcgi_SOURCES	Makefile.in	/^spawn_fcgi_SOURCES = spawn-fcgi.c$/
+srcdir	Makefile	/^srcdir = .$/
+srcdir	Makefile.in	/^srcdir = @srcdir@$/
+subdir	Makefile	/^subdir = src$/
+subdir	Makefile.in	/^subdir = src$/
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/
+sysconfdir	Makefile.in	/^sysconfdir = @sysconfdir@$/
+tags	Makefile	/^tags: TAGS$/
+tags	Makefile.in	/^tags: TAGS$/
+target_alias	Makefile	/^target_alias = $/
+target_alias	Makefile.in	/^target_alias = @target_alias@$/
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/
+top_build_prefix	Makefile.in	/^top_build_prefix = @top_build_prefix@$/
+top_builddir	Makefile	/^top_builddir = ..$/
+top_builddir	Makefile.in	/^top_builddir = @top_builddir@$/
+top_srcdir	Makefile	/^top_srcdir = ..$/
+top_srcdir	Makefile.in	/^top_srcdir = @top_srcdir@$/
+transform	Makefile	/^transform = $(program_transform_name)$/
+transform	Makefile.in	/^transform = $(program_transform_name)$/
+uninstall	Makefile	/^uninstall: uninstall-am$/
+uninstall	Makefile.in	/^uninstall: uninstall-am$/
+uninstall-am	Makefile	/^uninstall-am: uninstall-binPROGRAMS$/
+uninstall-am	Makefile.in	/^uninstall-am: uninstall-binPROGRAMS$/
+uninstall-binPROGRAMS	Makefile	/^uninstall-binPROGRAMS:$/
+uninstall-binPROGRAMS	Makefile.in	/^uninstall-binPROGRAMS:$/

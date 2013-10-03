@@ -79,7 +79,8 @@ static int issetugid() {
 
 #define CONST_STR_LEN(s) s, sizeof(s) - 1
 
-static int bind_socket(const char *addr, unsigned short port, const char *unixsocket, uid_t uid, gid_t gid, int mode) {
+static int bind_socket(const char *addr, unsigned short port, const char *unixsocket, uid_t uid, gid_t gid, int mode) 
+{//bind_socket函数用来创建套接字，绑定监听端口，进入listen模式
 	int fcgi_fd, socket_type, val;
 
 	struct sockaddr_un fcgi_addr_un;
@@ -619,7 +620,7 @@ int main(int argc, char **argv) {
 		if (uid != 0) {
 			setuid(uid);
 		}
-	} else {//到这里
+	} else {//非root用户启动，打开监听端口，进入listen模式。
 		if (-1 == (fcgi_fd = bind_socket(addr, port, unixsocket, 0, 0, sockmode)))
 			return -1;
 	}
@@ -629,5 +630,6 @@ int main(int argc, char **argv) {
 		return -1;
 	}
 
+    //fork创建FCGI的进程
 	return fcgi_spawn_connection(fcgi_app, fcgi_app_argv, fcgi_fd, fork_count, child_count, pid_fd, nofork);
 }
